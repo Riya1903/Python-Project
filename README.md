@@ -1,2 +1,1 @@
-# pythone-programs
-My First Repository in Git
+# python-programs
